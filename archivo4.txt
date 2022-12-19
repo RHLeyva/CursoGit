@@ -1,1 +1,7 @@
 git status12
+git tiene track en 
+
+gitclean
+elimina achivos notrackeados
+
+git ignore
